@@ -1,0 +1,2 @@
+﻿60965
+D:\Godot\Godot_v3.2-alpha1_mono_win64.exe
